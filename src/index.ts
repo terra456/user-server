@@ -1,7 +1,6 @@
 import app from './app.ts';
-import "dotenv/config";
 
-const port = process.env.PORT || 3000;
+const port = 3000;
 
 async function main() {
   try {
