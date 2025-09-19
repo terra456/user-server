@@ -1,3 +1,11 @@
+### Cервис работы с пользователями.
+
+Технологии:
+
+- typescript
+- Express
+- Prisma and postgresql
+
 ## Подготовка
 
 - Git - [Download & Install Git](https://git-scm.com/downloads).
@@ -42,7 +50,6 @@ npm run dev
 ```
 
 Сервер доступен по адресу http://localhost:3000
-Номер порта можно изменить в .env файле.
 
 ## Сторонняя база данных
 
