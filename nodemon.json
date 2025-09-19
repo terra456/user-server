@@ -1,0 +1,12 @@
+{
+  "watch": [
+    "src"
+  ],
+  "ext": "ts",
+  "ignore": [
+    "src/**/*.spec.ts"
+  ],
+  "execMap": {
+    "ts": "node --no-warnings=ExperimentalWarning --loader ts-node/esm"
+  }
+}
